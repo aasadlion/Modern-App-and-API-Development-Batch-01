@@ -1,0 +1,128 @@
+/* now this style is Home page  */
+
+.logo {
+    font-size: 50px;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    color: #ffc222;
+    font-family: 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    height: 100px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+
+ul>li {
+    list-style: none;
+    display: inline;
+    text-align: center;
+}
+
+a:active {
+    background-color: #000000;
+}
+
+.active {
+    background-color: #000000;
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:hover {
+    background-color: #000000;
+}
+
+ul>li>a {
+    text-decoration: none;
+    padding-left: 25px;
+    color: #000000;
+    font-size: larger;
+    font-weight: bold;
+    background-color: #ffc222;
+    padding: 29px 20px 30px 20px;
+    margin: 5px 5px 5px 5px;
+    border: #ffc222 px solid;
+}
+
+ul {
+    text-align: center;
+    background-color: #ffc222;
+    padding: 30px 0px 30px 0px;
+}
+
+.para {
+    margin: 30px 0px 30px 0px;
+    text-align: center;
+    font-family: serif;
+}
+
+.pic>img {
+    width: 430px;
+    height: 280px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px 0px 5px 0px;
+}
+
+#btn {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    text-decoration: none;
+    border: none;
+    padding: 15px 32px;
+    margin: 20px 2px;
+    cursor: pointer;
+    font-size: larger;
+    background-color: #ffc222;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #000000;
+    color: white;
+}
+
+#btn2 {
+    text-decoration: none;
+    border: none;
+    padding: 15px 32px;
+    margin: 20px 2px;
+    cursor: pointer;
+    font-size: large;
+    background-color: #ffc222;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+#contact {
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table,
+th,
+td,
+tr {
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 40%;
+}
