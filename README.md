@@ -1,4 +1,4 @@
-Assignment#03
+# Assignment#03
 
  
 Modren Apps(Web and Mobile, API) Batch01 Section-B
@@ -19,3 +19,7 @@ Submit: https://forms.gle/hDVr25RYfX5ngRjK9
 
 -------------------------------------------------------------------------------------------------
 
+
+# Details after completed Assignment.3 
+
+fruit website deploy on surge. you can visit now open this link at the  below
