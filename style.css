@@ -204,3 +204,16 @@
      margin-left: auto;
      margin-right: auto;
  }
+ 
+ #Testimonial-heading {
+     text-align: center;
+ }
+ 
+ #Testimonial-para {
+     text-align: center;
+     line-height: 25px;
+     margin: 15px 100px 0px 100px;
+     font-weight: 500;
+ }
+ /* ---------------------------------------End our Testimonial section ------------------------------------------------- */
+ /* -------------------------------------our Contact us section --------------------------------------------- */
