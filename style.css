@@ -119,17 +119,37 @@
  }
  
  .ServicesBox {
-     width: 30%;
-     height: 400px;
+     width: 28%;
+     height: 395px;
      border: black 1px solid;
      float: left;
-     margin: 40px 0px 0px 33px;
+     margin: 40px 0px 0px 50px;
      border-radius: 5px;
      border-color: rgb(214, 211, 211);
  }
  
  .card-item {
-     margin: 50px 0px 0px 170px;
+     margin: 50px 0px 0px 160px;
      width: 60px;
      height: 60px;
+ }
+ 
+ .card-item-name {
+     margin: 50px 0px 0px 160px;
+     color: #fc5d35;
+ }
+ 
+ .card-item-deatils {
+     text-align: center;
+     line-height: 25px;
+     margin: 15px 15px 0px 15px;
+     font-weight: 500;
+ }
+ 
+ .btn3 {
+     color: white;
+     padding: 12px 25px 12px 25px;
+     margin: 50px 0px 0px 45%;
+     background-color: rgb(27, 26, 26);
+     font-size: 14px;
  }
