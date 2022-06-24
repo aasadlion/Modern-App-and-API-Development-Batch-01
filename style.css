@@ -14,12 +14,37 @@
 }
 
 #logo-text {
-    padding: 40px 0px 20px 0px;
+    padding: 40px 0px 0px 0px;
     font-family: 'Roboto', sans-serif;
     font-size: 22px;
     letter-spacing: 1px;
 }
 
-ul>li {
+#nav_item {
+    list-style: none;
+    padding-left: 33%;
+    margin-top: -44px;
+}
+
+ul>li>a {
     text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: rgb(87, 85, 85);
+    letter-spacing: 1px;
+}
+
+ul>li {
+    float: left;
+    display: inline;
+    margin-left: 65px;
+}
+
+#GETAQUOTE {
+    color: white;
+    color: white;
+    background: #fc5d35;
+    padding: 10px 18px 10px 18px;
+    margin-top: -10px;
+    font-size: 12px;
 }
