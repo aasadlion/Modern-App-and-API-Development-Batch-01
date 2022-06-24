@@ -116,6 +116,7 @@
  #para2 {
      font-size: 16px;
      text-align: center;
+     font-weight: 500;
  }
  
  .ServicesBox {
@@ -152,4 +153,39 @@
      margin: 50px 0px 0px 45%;
      background-color: rgb(27, 26, 26);
      font-size: 14px;
+ }
+ /* ---------------------------------------------end our services------------------------------------------------ */
+ /* <!-- ---------------------------------------Start fresh fruits section ------------------------------------------------- --> */
+ 
+ .fresh-fruits-heading {
+     margin: 50px 0px 0px 50px;
+ }
+ 
+ .fresh-fruits-image {
+     float: right;
+     width: 250px;
+     height: 220;
+     margin: 25px 120px 0px 0px;
+ }
+ 
+ .fresh-fruits-para {
+     margin: 40px 0px 0px 50px;
+     width: 60%;
+     line-height: 25px;
+     font-weight: 500;
+ }
+ 
+ .btn4 {
+     color: white;
+     padding: 12px 35px 12px 35px;
+     margin: 50px 0px 0px 50px;
+     background-color: rgb(27, 26, 26);
+     font-size: 14px;
+ }
+ 
+ .fresh-fruits-image2 {
+     float: right;
+     width: 170px;
+     height: 200;
+     margin: 25px 120px 0px 0px;
  }
