@@ -276,3 +276,37 @@
  }
  /* <!-- ---------------------------------------End our Contact us section ------------------------------------------------- --> */
  /* ---------------------------------------our Footer section ------------------------------------------------- */
+ 
+ .footer {
+     width: 11%;
+     float: left;
+     margin: 40px 90px 0px 50px;
+     font-weight: 500;
+     line-height: 25px;
+ }
+ 
+ .soicl {
+     width: 35px;
+     height: 35px;
+     margin-left: 5px;
+ }
+ 
+ #newemail {
+     margin: 0px 0px 0px 0px;
+     font-weight: 500;
+     padding: 12px 70px 12px 30px;
+     border: none;
+     border: 2px solid rgb(145, 141, 141);
+     font-weight: 500;
+     ;
+ }
+ 
+ .btn6 {
+     margin: 10px 0px 0px 0px;
+     color: white;
+     padding: 5px 30px 5px 30px;
+     background-color: #fc5d35;
+     border-color: #fc5d35;
+     font-size: 14px;
+     font-weight: 500;
+ }
