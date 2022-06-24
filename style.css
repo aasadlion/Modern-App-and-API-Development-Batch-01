@@ -48,3 +48,9 @@ ul>li {
     margin-top: -10px;
     font-size: 12px;
 }
+
+#search-icon {
+    margin-top: -5px;
+    width: 25px;
+    height: 25px;
+}
