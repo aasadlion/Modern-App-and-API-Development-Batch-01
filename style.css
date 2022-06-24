@@ -116,3 +116,13 @@
      font-size: 16px;
      text-align: center;
  }
+ 
+ .ServicesBox {
+     width: 30%;
+     height: 400px;
+     border: black 1px solid;
+     float: left;
+     margin: 40px 0px 0px 33px;
+     border-radius: 5px;
+     border-color: rgb(214, 211, 211);
+ }
