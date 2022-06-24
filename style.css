@@ -278,7 +278,7 @@
  /* ---------------------------------------our Footer section ------------------------------------------------- */
  
  .footer {
-     width: 11%;
+     width: 10%;
      float: left;
      margin: 40px 90px 0px 50px;
      font-weight: 500;
@@ -302,11 +302,18 @@
  }
  
  .btn6 {
-     margin: 10px 0px 0px 0px;
+     margin: 20px 0px 110px 0px;
      color: white;
      padding: 5px 30px 5px 30px;
      background-color: #fc5d35;
      border-color: #fc5d35;
      font-size: 14px;
      font-weight: 500;
+ }
+ 
+ #bottom {
+     margin: 0px 0px 0px 0px;
+     height: 110px;
+     width: 100%;
+     background-color: #fc5d35;
  }
