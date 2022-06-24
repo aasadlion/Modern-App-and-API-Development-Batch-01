@@ -197,3 +197,10 @@
      margin: 25px 120px 0px 0px;
  }
  /* <!-- ---------------------------------------End our fresh fruits section ------------------------------------------------- --> */
+ /* <!-- ---------------------------------------our Testimonial section ------------------------------------------------- --> */
+ 
+ #client-Image {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
