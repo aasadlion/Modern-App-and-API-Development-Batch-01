@@ -212,8 +212,49 @@
  #Testimonial-para {
      text-align: center;
      line-height: 25px;
-     margin: 15px 100px 0px 100px;
+     margin: 15px 100px 80px 100px;
      font-weight: 500;
  }
  /* ---------------------------------------End our Testimonial section ------------------------------------------------- */
  /* -------------------------------------our Contact us section --------------------------------------------- */
+ 
+ #Contact-heading {
+     margin: 0px 0px 30px 50px;
+ }
+ 
+ input[type=text] {
+     width: 50%;
+     padding: 12px 20px;
+     margin: 8px 0;
+     box-sizing: border-box;
+     border: none;
+     border-bottom: 2px solid rgb(145, 141, 141);
+     margin: 0px 0px 30px 50px;
+     font-weight: 500;
+     ;
+ }
+ 
+ input[type=number] {
+     width: 50%;
+     padding: 12px 20px;
+     margin: 8px 0;
+     box-sizing: border-box;
+     border: none;
+     border-bottom: 2px solid rgb(145, 141, 141);
+     margin: 0px 0px 30px 50px;
+     font-weight: 500;
+     ;
+ }
+ 
+ input[type=email] {
+     font-weight: 500;
+     width: 50%;
+     padding: 12px 20px;
+     margin: 8px 0;
+     box-sizing: border-box;
+     border: none;
+     border-bottom: 2px solid rgb(145, 141, 141);
+     margin: 0px 0px 30px 50px;
+     font-weight: 500;
+     ;
+ }
