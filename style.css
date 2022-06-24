@@ -110,6 +110,7 @@
  
  #servicesHeading {
      text-align: center;
+     margin-top: 70px;
  }
  
  #para2 {
@@ -125,4 +126,10 @@
      margin: 40px 0px 0px 33px;
      border-radius: 5px;
      border-color: rgb(214, 211, 211);
+ }
+ 
+ .card-item {
+     margin: 50px 0px 0px 170px;
+     width: 60px;
+     height: 60px;
  }
