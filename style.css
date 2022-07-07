@@ -17,3 +17,9 @@
     font-size: 20px;
     font-weight: 500;
 }
+
+#line {
+    margin-left: 360px;
+    margin-right: 360px;
+    border: 2px solid #050505;
+}
