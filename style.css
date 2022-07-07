@@ -1,77 +1,93 @@
-#NORDICROSE {
-    font-size: 35px;
-    letter-spacing: 5px;
-    font-weight: 500;
-    margin: 20px 0px 0px 40px;
-    text-shadow: 2px 2px #cecaca;
-}
-
-#navul {
-    margin: 20px 0px 0px 0px;
-    position: absolute;
-    right: 100px;
-}
-
-#navul>li {
-    padding: 15px;
-    font-size: 20px;
-    font-weight: 500;
-}
-
-#hr2 {
-    border: 2px rgb(0, 0, 0) solid;
-    margin-top: 50px;
-    margin-left: 29%;
-    margin-right: 26%;
-}
-
-.image {
-    margin: 10px 0px 0px 400px;
-}
-
-.image2 {
-    margin: 10px 0px 0px 380px;
-}
-
-#p1 {
-    margin: -50px 0px 0px 470px;
-    font-size: 18px;
-    font-weight: 700;
-}
-
-#p2 {
-    margin: 0px 0px 30px 470px;
-    font-weight: 500;
-    font-size: 13px;
-}
-
-#p3 {
-    margin-top: 50px;
-    margin-left: 29%;
-    margin-right: 26%;
-}
-
-#heading1 {
-    margin-top: 40px;
-    margin-left: 29%;
-    margin-right: 26%;
-    font-weight: bold;
-}
-
-.image3 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
-#unorderlist {
-    margin-top: 40px;
-    margin-left: 29%;
-    margin-right: 26%;
-    font-weight: 500;
-}
-
-#unorderlist>li {
-    line-height: 30px;
-}
+        #NORDICROSE {
+            font-size: 35px;
+            letter-spacing: 5px;
+            font-weight: 500;
+            margin: 20px 0px 0px 40px;
+            text-shadow: 2px 2px #cecaca;
+        }
+        
+        #navul {
+            margin: 20px 0px 0px 0px;
+            position: absolute;
+            right: 100px;
+        }
+        
+        #navul>li {
+            padding: 15px;
+            font-size: 20px;
+            font-weight: 500;
+        }
+        
+        #hr2 {
+            border: 2px rgb(0, 0, 0) solid;
+            margin-top: 50px;
+            margin-left: 29%;
+            margin-right: 26%;
+        }
+        
+        .image {
+            margin: 10px 0px 0px 400px;
+        }
+        
+        .image2 {
+            margin: 10px 0px 0px 380px;
+        }
+        
+        #p1 {
+            margin: -50px 0px 0px 470px;
+            font-size: 18px;
+            font-weight: 700;
+        }
+        
+        #p2 {
+            margin: 0px 0px 30px 470px;
+            font-weight: 500;
+            font-size: 13px;
+        }
+        
+        #p3 {
+            margin-top: 50px;
+            margin-left: 29%;
+            margin-right: 26%;
+        }
+        
+        #heading1 {
+            margin-top: 40px;
+            margin-left: 29%;
+            margin-right: 26%;
+            font-weight: bold;
+        }
+        
+        .image3 {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+        
+        #unorderlist {
+            margin-top: 40px;
+            margin-left: 29%;
+            margin-right: 26%;
+            font-weight: 500;
+        }
+        
+        #unorderlist>li {
+            line-height: 30px;
+        }
+        
+        .Rectangle {
+            margin-top: 40px;
+            margin-left: 29%;
+            margin-right: 26%;
+        }
+        
+        #tw {
+            margin-top: -103px;
+            margin-left: 35%;
+        }
+        
+        #fb {
+            margin-top: -152px;
+            margin-left: 57%;
+        }
