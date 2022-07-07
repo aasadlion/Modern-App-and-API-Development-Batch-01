@@ -18,8 +18,29 @@
     font-weight: 500;
 }
 
-#line {
-    margin-left: 360px;
-    margin-right: 360px;
-    border: 2px solid #050505;
+#hr2 {
+    border: 2px rgb(0, 0, 0) solid;
+    margin-top: 50px;
+    margin-left: 29%;
+    margin-right: 26%;
+}
+
+.image {
+    margin: 10px 0px 0px 400px;
+}
+
+.image2 {
+    margin: 10px 0px 0px 380px;
+}
+
+#p1 {
+    margin: -50px 0px 0px 470px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#p2 {
+    margin: 0px 0px 30px 470px;
+    font-weight: 500;
+    font-size: 12px;
 }
