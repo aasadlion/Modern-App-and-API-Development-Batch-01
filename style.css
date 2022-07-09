@@ -119,3 +119,31 @@
             position: relative;
             top: 40px;
         }
+        
+        .card-text {
+            font-size: 18px;
+            font-weight: 600;
+            text-align: center;
+        }
+        
+        .card {
+            position: relative;
+            right: 40px;
+            margin-left: 25%;
+            margin-right: 30%;
+            width: 300px;
+        }
+        
+        .card1 {
+            position: relative;
+            left: 92px;
+        }
+        
+        .card3 {
+            position: relative;
+            right: 172px;
+        }
+        
+        .card2 {
+            position: relative;
+        }
