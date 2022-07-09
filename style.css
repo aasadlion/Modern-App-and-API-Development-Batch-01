@@ -79,7 +79,7 @@
         .Rectangle {
             margin-top: 40px;
             margin-left: 29%;
-            margin-right: 26%;
+            margin-right: 23%;
         }
         
         #tw {
@@ -90,4 +90,25 @@
         #fb {
             margin-top: -152px;
             margin-left: 57%;
+        }
+        
+        .tags {
+            margin-left: 29%;
+            margin-right: 26%;
+            margin: 0px 300px 30px 395px;
+            font-weight: 600;
+            font-size: 15px;
+        }
+        
+        .tags2 {
+            margin: 0px 300px 30px 470px;
+            font-weight: 500;
+            font-size: 14px;
+        }
+        
+        .h3 {
+            border: 1px rgb(0, 0, 0) dashed;
+            margin-top: 150px;
+            margin-left: 30%;
+            margin-right: 23%;
         }
