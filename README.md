@@ -8,3 +8,12 @@
 Deadline: 15/07/2022!
 
 Submit link: https://forms.gle/ZmkfYw8jcTQneDa48
+
+
+
+--------------------------------------------------------------
+
+# Details after completed Assignment 4 
+
+### website deploy on surge. you can visit now open this link at the  below
+### Assignment_4_NORDIC_ROSE_website.surge.sh
